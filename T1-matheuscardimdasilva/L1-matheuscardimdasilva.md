@@ -75,11 +75,6 @@ JavaScript completou 26 anos em 2021. Como é a linguagem utilizada pela grande 
 
 Há um pouco de fragmentação por causa dos frameworks. Todos são JavaScript, e possuem escrita JavaScript, porém introduzem tantas funcionalidades que é difícil traduzir um código escrito para React para um código escrito em Vue, o que fragmenta um pouco a comunidade. 
 
----
-
-## Informações Adicionais
-
-
 ## Referências 
 
 1. https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
